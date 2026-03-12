@@ -1,2 +1,2 @@
-# hotel-management-system
-This is the project for hotel management system
+# hospital-management-system
+This is the project for hospital management system
